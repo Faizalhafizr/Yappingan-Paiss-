@@ -1,0 +1,1 @@
+export const createInitialState=()=>({platform:"threads",profile:{name:"Nama Contoh",username:"nama_contoh",bio:"",verified:true,avatar:"",avatarY:50},time:"08/19",text:"hi",replies:[],note:"",stats:{replies:36,reposts:122,quotes:0,likes:1000,views:0,shares:141,bookmarks:0},statMode:"platform",theme:"dark",fontSize:"normal",scale:2,ratio:"auto",showLabel:false});
